@@ -1,3 +1,9 @@
+#Notice
+
+Todo :
+
+* I want change this to multilanguage support.
+
 # Installation
 
 Standard Hosting:
